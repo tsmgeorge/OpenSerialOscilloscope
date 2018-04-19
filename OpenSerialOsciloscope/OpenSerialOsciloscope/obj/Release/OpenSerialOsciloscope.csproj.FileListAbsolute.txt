@@ -1,0 +1,8 @@
+C:\Users\TSM\Documents\Visual Studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\bin\Release\OpenSerialOsciloscope.exe.config
+C:\Users\TSM\Documents\Visual Studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\bin\Release\OpenSerialOsciloscope.exe
+C:\Users\TSM\Documents\Visual Studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\bin\Release\OpenSerialOsciloscope.pdb
+C:\Users\TSM\Documents\Visual Studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Release\OpenSerialOsciloscope.FormMain.resources
+C:\Users\TSM\Documents\Visual Studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Release\OpenSerialOsciloscope.Properties.Resources.resources
+C:\Users\TSM\Documents\Visual Studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Release\OpenSerialOsciloscope.csproj.GenerateResource.Cache
+C:\Users\TSM\Documents\Visual Studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Release\OpenSerialOsciloscope.exe
+C:\Users\TSM\Documents\Visual Studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Release\OpenSerialOsciloscope.pdb

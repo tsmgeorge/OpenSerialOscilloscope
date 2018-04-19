@@ -1,0 +1,9 @@
+c:\users\tsm\documents\visual studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\bin\Debug\OpenSerialOsciloscope.exe.config
+c:\users\tsm\documents\visual studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\bin\Debug\OpenSerialOsciloscope.exe
+c:\users\tsm\documents\visual studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\bin\Debug\OpenSerialOsciloscope.pdb
+c:\users\tsm\documents\visual studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Debug\OpenSerialOsciloscope.FormMain.resources
+c:\users\tsm\documents\visual studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Debug\OpenSerialOsciloscope.Properties.Resources.resources
+c:\users\tsm\documents\visual studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Debug\OpenSerialOsciloscope.csproj.GenerateResource.Cache
+c:\users\tsm\documents\visual studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Debug\OpenSerialOsciloscope.exe
+c:\users\tsm\documents\visual studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Debug\OpenSerialOsciloscope.pdb
+C:\Users\TSM\Documents\Visual Studio 2013\Projects\OpenSerialOsciloscope\OpenSerialOsciloscope\obj\Debug\OpenSerialOsciloscope.csprojResolveAssemblyReference.cache
